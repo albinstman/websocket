@@ -6,7 +6,7 @@ package main
 
 import (
 	"flag"
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/albinstman/fhttp"
 	"log"
 )
 

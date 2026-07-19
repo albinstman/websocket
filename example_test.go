@@ -5,11 +5,11 @@
 package websocket_test
 
 import (
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/albinstman/fhttp"
 	"log"
 	"testing"
 
-	"github.com/bogdanfinn/websocket"
+	"github.com/albinstman/websocket"
 )
 
 var (

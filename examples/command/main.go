@@ -7,14 +7,14 @@ package main
 import (
 	"bufio"
 	"flag"
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/albinstman/fhttp"
 	"io"
 	"log"
 	"os"
 	"os/exec"
 	"time"
 
-	"github.com/bogdanfinn/websocket"
+	"github.com/albinstman/websocket"
 )
 
 var (
